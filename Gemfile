@@ -40,4 +40,5 @@ gem 'spring',        group: :development
 
 # For ember
 gem 'ember-rails'
-gem 'ember-source'
+gem 'ember-source', '~> 1.8.1'
+gem 'emblem-rails'
